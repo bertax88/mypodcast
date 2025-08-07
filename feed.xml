@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Survivor Benefits Guide Podcast</title>
+    <link>https://github.com/bertax88/mypodcast</link>
+    <description>A detailed guide on filing U.S. Social Security survivor benefits from Morocco, updated for 2026.</description>
+    <language>en-us</language>
+    <item>
+      <title>Episode 1: Survivor Benefits Guide</title>
+      <description><![CDATA[
+        Welcome to the Survivor Benefits Guide. This episode covers key steps and strategies for claiming Social Security survivor benefits from abroad,
+        including required documents, banking setup, and filing tips as of 2026.
+      ]]></description>
+      <pubDate>Thu, 07 Aug 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://ia601703.us.archive.org/20/items/your-blueprint-for-us-social-security-survivor-benefits-abroad-de-mystifying-the-process-with-expat/Your_Blueprint_for_US_Social_Security_Survivor_Benefits_Abroad__De-Mystifying_the_Process_with_Expat.m4a" type="audio/mpeg" />
+      <guid>episode-1</guid>
+    </item>
+  </channel>
+</rss>
